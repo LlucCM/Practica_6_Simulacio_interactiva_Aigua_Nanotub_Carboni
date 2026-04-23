@@ -1,0 +1,2 @@
+# Practica_6_Simulacio_interactiva_Aigua_Nanotub_Carboni
+Simulació intercativa d'aigua en nanotub de carboni
